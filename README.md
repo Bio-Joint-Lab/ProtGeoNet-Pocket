@@ -196,8 +196,6 @@ python test.py
 
 # Citation and contact
 
-```
-@article{
-}
-```
+If you find this code or our work useful in your research, please consider citing:
+Mingjian Jiang, Zhi Zhang, Teng Ma, Huaibin Hang, Yaping Fan, Shunpeng Pang*, Wei Zhou, Yuanyuan Zhang, ProtGeoNet-Pocket: A Binding Site Prediction Approach Integrating Sequence, Geometry, and Graph Structure, Journal of Chemical Information and Modeling, Volume 65, Issue 19, 2025, 10736-10753, https://doi.org/10.1021/acs.jcim.5c01568
 
